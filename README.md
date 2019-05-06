@@ -1,3 +1,5 @@
+Just my settings for the best image viewer ever!!
+
 ![sxiv](http://muennich.github.com/sxiv/img/logo.png "sxiv")
 
 **Simple X Image Viewer**
